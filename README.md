@@ -1,0 +1,1 @@
+# Guess the number game in plain JavaScript
